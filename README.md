@@ -15,15 +15,27 @@ as the Git repository URL and specify a project name. Once done, click the Creat
 
 ![1.png](1.png)
 
+![7.png](7.png)
 
 Step 5: Click on README.md file and Edit it by adding some text. Once done, click on Commit changes Image
 
-![2.png](2.png)
+![8.png](8.png)
 
 
 Step 6: Navigate to Pipelines under CI/CD on the sidebar. Now click on the pipeline, and you will a job that has been created due to our recent commit. Wait for the job to complete.
 
 Step 7: Once the scan is complete, click on the menu option to download the artifacts Image
 
-![3.png](3.png)
 
+![9.png](9.png)
+
+
+![88.png](88.png)
+
+Step 8 : Read OwaspZap report
+
+![888.png](888.png)
+
+Step 9 : Verify on Docker
+
+![8888.png](8888.png)

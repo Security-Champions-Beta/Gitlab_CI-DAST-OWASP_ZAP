@@ -1,4 +1,4 @@
-DAST(OWASP ZAP) Scan with Gitlab CI
+### DAST(OWASP ZAP) Scan with Gitlab CI
 
 Step 1: Register/Login to gitlab
 
@@ -12,6 +12,8 @@ Step 3: Click on Import Project Image
 Step 4: Select Repo by URL from the list of options and fill 
 https://github.com/Security-Champions-Beta/Gitlab_CI-DAST-OWASP_ZAP.git
 as the Git repository URL and specify a project name. Once done, click the Create Project button Image
+
+    https://github.com/Security-Champions-Beta/Gitlab_CI-DAST-OWASP_ZAP.git
 
 ![1.png](1.png)
 
